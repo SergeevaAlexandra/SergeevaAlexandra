@@ -2,10 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+# Привет, меня зовут Александра!
 
-### <div align="center">Привет, меня зовут Александра!
-</div>  
-  
+--- 
+
+### Обо мне:
 
 Я начинающий специалист по машинному обучению 💻 После года обучения на математической специальности в университете я поняла, что мне интересно совмещать математику и программирование в проектах, выдвигать гипотезы и проверять их. В настоящий момент  я активно развиваюсь в ml и нахожусь в поисках работы!  
   
@@ -16,13 +17,15 @@
 - ❓ Интересуюсь сферой Data Science  
   
 
-- ⚡ Учусь в ЮФУ по направлению  «Прикладная математика и информатика»  
+- ⚡ Учусь по направлению  «Прикладная математика и информатика» в ЮФУ
+
+
+- 📩  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
   
+---
 
 <br/>  
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -46,58 +49,10 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/SergeevaAlexandra" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
