@@ -21,9 +21,13 @@
 
 
 - 📩  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
+
 <div align="center">
-  <img height="200" src="https://pin.it/4S8IfjP"/>
-</div>  
+  <img height="200" src="https://i.pinimg.com/originals/e6/cb/44/e6cb44c348b25d243ca1e05d291cbcbf.gif"/>
+</div>
+
+
+
 ---
 
 <br/>  
