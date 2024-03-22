@@ -1,26 +1,22 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 # Привет, меня зовут Александра! 
 
 --- 
 
 ### Обо мне:
 
-Я начинающий специалист по машинному обучению <img src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" height="20px" width="20px"> После года обучения на математической специальности в университете я поняла, что мне интересно совмещать математику и программирование в проектах, выдвигать гипотезы и проверять их. В настоящий момент  я активно развиваюсь в ml и нахожусь в поисках работы!  
+Учусь на втором курсе в ЮФУ по направлению «Прикладная математика и информатика» <img src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" height="20px" width="20px"> Я активно занимаюсь задачами, связанными с компьютерным зрением, временными рядами, машинным обучением.
   
 
-- <img src="https://i.pinimg.com/originals/18/ba/5d/18ba5d426eae90d75234a5df205081a8.gif" height="20px" width="20px"> Завершила курс по машинному обучению от Анатолия Карпова  
+- <img src="https://i.pinimg.com/originals/cc/b5/d5/ccb5d59914943deda83358c27de5c0f3.gif" height="20px" width="20px"> Завершила курс по машинному обучению от Анатолия Карпова  
   
 
-- <img src="https://i.pinimg.com/originals/e6/cb/44/e6cb44c348b25d243ca1e05d291cbcbf.gif" height="30px" width="30px"> Интересуюсь сферой Data Science  
+- <img src="https://i.pinimg.com/originals/55/89/96/55899627246c1155741bfa5cbbc174f7.gif" height="30px" width="30px"> Интересуюсь сферой Data Science  
   
 
-- <img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" height="25px" width="25px"> Учусь по направлению  «Прикладная математика и информатика» в ЮФУ
+- <img src="https://i.pinimg.com/originals/5e/4a/50/5e4a50c633c8f74a47ff7adf45f8d130.gif" height="25px" width="25px"> Учусь по направлению  «Прикладная математика и информатика» в ЮФУ
 
 
-- <img src="https://i.pinimg.com/originals/8f/2b/5e/8f2b5ef31dabe6b65b62a1a1dcf15650.gif" height="20px" width="20px">  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
+- <img src="https://i.pinimg.com/originals/00/49/50/004950db0ce20ddf8ca0d2b54a3cc538.gif" height="20px" width="20px">  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
 
 ---
 
