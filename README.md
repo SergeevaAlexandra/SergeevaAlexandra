@@ -4,7 +4,7 @@
 
 ### Обо мне:
 
-Учусь на третьем курсе в Южном Федеральном университете по направлению «Прикладная математика и информатика» <img src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" height="20px" width="20px"> Я активно занимаюсь задачами, связанными с llm, nlp и cv.
+Учусь на четвертом курсе в Южном Федеральном университете по направлению «Прикладная математика и информатика» <img src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" height="20px" width="20px"> Я активно занимаюсь задачами, связанными с созданием LLM-сервисов.
   
 
 - <img src="https://i.pinimg.com/originals/cc/b5/d5/ccb5d59914943deda83358c27de5c0f3.gif" height="20px" width="20px"> Завершила курс по машинному обучению от Анатолия Карпова  
@@ -13,7 +13,7 @@
 - <img src="https://i.pinimg.com/originals/55/89/96/55899627246c1155741bfa5cbbc174f7.gif" height="30px" width="30px"> Интересуюсь сферой Data Science  
   
 
-- <img src="https://i.pinimg.com/originals/5e/4a/50/5e4a50c633c8f74a47ff7adf45f8d130.gif" height="25px" width="25px"> Учусь по направлению  «Прикладная математика и информатика» в ЮФУ
+- <img src="https://i.pinimg.com/originals/5e/4a/50/5e4a50c633c8f74a47ff7adf45f8d130.gif" height="25px" width="25px"> Занимаюсь исследованием RAG-подходов
 
 
 - <img src="https://i.pinimg.com/originals/00/49/50/004950db0ce20ddf8ca0d2b54a3cc538.gif" height="20px" width="20px">  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
@@ -34,9 +34,4 @@
 </td></tr> 
 
 ---
-
-<div align="center">
-  <img height="400" width="1020px" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif"/>
-</div>
-
 
