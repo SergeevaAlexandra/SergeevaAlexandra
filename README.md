@@ -1,37 +1,42 @@
-# Привет, меня зовут Александра! 
+# Сергеева Александа - ML-инженер
 
---- 
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-F4D35E" alt="Machine Learning Engineer">
 
-### Обо мне:
+## Обо мне:
 
-ML-engineer <img src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" height="20px" width="20px"> Я активно занимаюсь задачами, связанными с созданием NLP/LLM-сервисов.
-  
+Я ML-инженер с опытом разработки решений в области NLP и применении LLM в продуктах компании. 
 
-- <img src="https://i.pinimg.com/originals/cc/b5/d5/ccb5d59914943deda83358c27de5c0f3.gif" height="20px" width="20px"> Завершила курс по машинному обучению от Анатолия Карпова  
-  
+Контакты:
 
-- <img src="https://i.pinimg.com/originals/55/89/96/55899627246c1155741bfa5cbbc174f7.gif" height="30px" width="30px"> Интересуюсь сферой Data Science  
-  
+* Email: <a href="mailto:ml.sergeeva.alexandra@yandex.ru"><img alt="Email Badge" src="https://img.shields.io/badge/ml.sergeeva.alexandra%40yandex.ru-083D77?style=flat&logo=maildotru&logoColor=EBEBD3"></a>
+* Telegram: <a href="https://t.me/alclarte"><img alt="Telegram Badge" src="https://img.shields.io/badge/%40alclarte-blue?style=flat&logo=telegram&logoColor=EBEBD3&color=083D77"></a>
 
-- <img src="https://i.pinimg.com/originals/5e/4a/50/5e4a50c633c8f74a47ff7adf45f8d130.gif" height="25px" width="25px"> Занимаюсь исследованием RAG-подходов
+## Навыки
 
+* **Языки программирования:** <img alt="Python Badge" src="https://img.shields.io/badge/Python-EBEBD3?style=flat&logo=python&logoColor=white&labelColor=EE964B"> <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-EBEBD3?style=flat&logo=cplusplus&logoColor=white&labelColor=EE964B">
+* **Инструменты анализа данных (Python):** <img alt="Pandas Badge" src="https://img.shields.io/badge/Pandas-EBEBD3?style=flat&logo=pandas&logoColor=white&labelColor=F95738"> <img alt="Numpy Badge" src="https://img.shields.io/badge/Numpy-EBEBD3?style=flat&logo=numpy&logoColor=white&labelColor=F95738"> <img alt="Seaborn Badge" src="https://img.shields.io/badge/Seaborn-EBEBD3?style=flat&logo=python&logoColor=white&labelColor=F95738">
+* **Фреймворки ML:**
+    * <img alt="Pytorch Badge" src="https://img.shields.io/badge/Pytorch-EBEBD3?style=flat&logo=pytorch&logoColor=white&labelColor=0C4F97">
+    * <img alt="TensorFlow Badge" src="https://img.shields.io/badge/TensorFlow-EBEBD3?style=flat&logo=tensorflow&logoColor=white&labelColor=0C4F97"> <img alt="SKLearn Badge" src="https://img.shields.io/badge/SKLearn-EBEBD3?style=flat&logo=scikitlearn&logoColor=white&labelColor=0C4F97">
+* **Фреймворки LLM & AI**
+    * <img alt="LangChain Badge" src="https://img.shields.io/badge/LangChain-EBEBD3?style=flat&logo=langchain&logoColor=white&labelColor=00A67D"> <img alt="LangGraph Badge" src="https://img.shields.io/badge/LangGraph-EBEBD3?style=flat&logo=langchain&logoColor=white&labelColor=00A67D">
+    * <img alt="LangFuse Badge" src="https://img.shields.io/badge/LangFuse-EBEBD3?style=flat&logo=langfuse&logoColor=white&labelColor=00A67D">
+    * <img alt="Transformers Badge" src="https://img.shields.io/badge/Transformers-EBEBD3?style=flat&logo=huggingface&logoColor=white&labelColor=FFD21E">
 
-- <img src="https://i.pinimg.com/originals/00/49/50/004950db0ce20ddf8ca0d2b54a3cc538.gif" height="20px" width="20px">  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-sergeevaalexandra-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alclarte) 
+* **Базы данных & Поисковые системы:** <img alt="PostreSQL Badge" src="https://img.shields.io/badge/PostreSQL-EBEBD3?style=flat&logo=postgresql&logoColor=black&labelColor=F4D35E"> <img alt="Elasticsearch Badge" src="https://img.shields.io/badge/Elasticsearch-EBEBD3?style=flat&logo=elasticsearch&logoColor=white&labelColor=005571"> <img alt="Qdrant Badge" src="https://img.shields.io/badge/Qdrant-EBEBD3?style=flat&logo=qdrant&logoColor=white&labelColor=29B6F6">
 
----
+## Опыт
 
-<tr><td valign="top" width="60%">
+## Образование
 
-### Технологии  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+**ЮФУ, Ростов-нв-Дону** – Бакалавриат, Прикладная математика и информатика (2022 – 2026)
 
-</td></tr> 
+## Достижения
 
----
+* **Хакатон XLabs AI 2024** – <img src="https://img.shields.io/badge/Participant-lightcoral" alt="Participant Badge">
+
+## Проекты
+
+* **Дообучение ControlNet для диффузионных моделей** – курсовая работа ЮФУ
+    * <a href="https://github.com/SergeevaAlexandra/controlnet-train"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-EBEBD3?style=flat&logo=github&logoColor=white&labelColor=63BA99"></a>
 
